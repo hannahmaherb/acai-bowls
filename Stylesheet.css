@@ -1,0 +1,126 @@
+<style>
+
+body {
+
+margin:0;
+
+padding:0;
+
+color: #191970;
+
+font-family: Arial, Verdana, sans-serif;}
+
+
+
+ 
+
+header {
+margin:0;
+
+padding:0;
+
+height:25vh;
+
+background-color:Violet;}
+
+
+h1 {
+
+color: #434141; text-align: left;
+
+font-family: Georgia,"TimesNewRoman",serif;}
+
+
+p {font-size: .100em; text-indent: 3em; } ul {font-weight: bold; }
+
+h2 {
+
+color: #434141; text-align: center;
+
+font-family: Georgia,"TimesNewRoman",serif;}
+
+
+p{
+color: #434141; text-align: center;
+
+font-family: Georgia,"TimesNewRoman",serif;}
+
+p {font-size: .90em; text-indent: 3em; } ul {font-weight: bold; }
+
+p2{
+color: #434141; text-align: left;
+
+font-family: Georgia,"TimesNewRoman",serif;}
+
+p {font-size: .90em; text-indent: 3em; } ul {font-weight: bold; }
+
+
+ 
+
+nav {text-align: right;}
+
+ 
+
+.topnav-right {
+
+  overflow: hidden;
+
+  background-color: #434141;
+
+}
+
+ 
+
+.topnav-right a {
+
+  float: left;
+
+  color: #f2f2f2;
+
+  text-align: center;
+
+  padding: 14px 16px;
+
+  text-decoration: none;
+
+  font-size: 17px;
+
+}
+
+ 
+
+.topnav-right a:hover {
+
+  background-color:Violet;
+
+  color:purple;
+
+}
+
+ 
+
+.topnav-right a.active {
+
+  background-color: #04AA6D;
+
+  color: white;
+
+}
+
+ 
+
+.topnav-right {
+
+  float: right;
+
+}
+
+table, th, td {
+  border:1px solid black;
+}
+
+ 
+
+ 
+
+</style>
